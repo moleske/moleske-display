@@ -2,6 +2,7 @@
 Radius=18
 
 [InnerEdge]
+UpdateDivider=-1
 Solid=1
 AntiAlias=1
 StartAngle=0
@@ -13,6 +14,7 @@ LineLength=(#Radius#*0.55)
 LineColor=#TextColor#
 
 [OuterEdge]
+UpdateDivider=-1
 Solid=1
 AntiAlias=1
 StartAngle=0

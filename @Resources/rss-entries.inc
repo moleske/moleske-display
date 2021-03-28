@@ -13,6 +13,7 @@ CdataSubsitution="<![CDATA[":"","]]>":"","![CDATA[":"","]]":""
 Measure=WebParser
 URL=[MeasureSite]
 StringIndex=1
+Substitute=#CdataSubsitution#
 
 [MeasureSiteLink]
 Measure=WebParser

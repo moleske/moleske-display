@@ -6,6 +6,11 @@ FontColor=#TextColor#
 SolidColor=0,0,0,1
 ClipString=1
 
+[MeterBack]
+Meter=Shape
+Shape=Rectangle 0,0,300,153 | Fill Color 0,0,0,127
+UpdateDivider=-1
+
 [Variables]
 CdataSubsitution="<![CDATA[":"","]]>":"","![CDATA[":"","]]":""
 

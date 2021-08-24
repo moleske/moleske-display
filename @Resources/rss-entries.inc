@@ -49,6 +49,7 @@ Substitute=#CdataSubsitution#
 Measure=WebParser
 URL=[MeasureSite]
 StringIndex=4
+Substitute=#CdataSubsitution#
 
 [MeterEntryOne]
 Meter=String
@@ -70,6 +71,7 @@ Substitute=#CdataSubsitution#
 Measure=WebParser
 URL=[MeasureSite]
 StringIndex=6
+Substitute=#CdataSubsitution#
 
 [MeterEntryTwo]
 Meter=String
@@ -91,6 +93,7 @@ Substitute=#CdataSubsitution#
 Measure=WebParser
 URL=[MeasureSite]
 StringIndex=8
+Substitute=#CdataSubsitution#
 
 [MeterEntryThree]
 Meter=String
@@ -112,6 +115,7 @@ Substitute=#CdataSubsitution#
 Measure=WebParser
 URL=[MeasureSite]
 StringIndex=10
+Substitute=#CdataSubsitution#
 
 [MeterEntryFour]
 Meter=String
@@ -133,6 +137,7 @@ Substitute=#CdataSubsitution#
 Measure=WebParser
 URL=[MeasureSite]
 StringIndex=12
+Substitute=#CdataSubsitution#
 
 [MeterEntryFive]
 Meter=String
@@ -154,6 +159,7 @@ Substitute=#CdataSubsitution#
 Measure=WebParser
 URL=[MeasureSite]
 StringIndex=14
+Substitute=#CdataSubsitution#
 
 [MeterEntrySix]
 Meter=String
@@ -175,6 +181,7 @@ Substitute=#CdataSubsitution#
 Measure=WebParser
 URL=[MeasureSite]
 StringIndex=16
+Substitute=#CdataSubsitution#
 
 [MeterEntrySeven]
 Meter=String
